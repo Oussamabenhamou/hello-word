@@ -1,2 +1,3 @@
 # hello-word
 My first repository on github
+i wanna learn more ...
